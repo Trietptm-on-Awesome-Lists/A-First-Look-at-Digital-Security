@@ -12,7 +12,7 @@ https://www.accessnow.org/a-first-look-at-digital-security/
 
 ## Current PDFs for printing
 
-English: https://www.accessnow.org/cms/assets/uploads/2017/02/A-first-look-at-digital-security_DigiCopy.pdf
+English: https://www.accessnow.org/cms/assets/uploads/2016/11/A-First-Look-at-Digital-Security-EN-2018-March.pdf
 
 French: https://drive.google.com/file/d/0B1A61PIxe9hVYUZnRlFqYlV2dXc/view?usp=sharing
 
