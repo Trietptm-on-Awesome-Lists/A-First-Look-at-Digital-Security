@@ -12,9 +12,9 @@ https://www.accessnow.org/a-first-look-at-digital-security/
 
 ## Current PDFs for printing
 
-English: https://www.accessnow.org/cms/assets/uploads/2018/03/A-First-Look-at-Digital-Security-EN-2018-March.pdf
+English: https://www.accessnow.org/Digital-Copy-A-First-Look-at-Digital-Security-EN
 
-French: https://drive.google.com/file/d/0B1A61PIxe9hVYUZnRlFqYlV2dXc/view?usp=sharing
+French (out of date): https://drive.google.com/file/d/0B1A61PIxe9hVYUZnRlFqYlV2dXc/view?usp=sharing
 
 ## Design files
 
