@@ -1,3 +1,5 @@
+**As of June 2018, this repository is not mantained. The mantained repository is located [on Gitlab.com](https://gitlab.com/AccessNowHelpline/A-First-Look-at-Digital-Security)**
+
 # A First Look at Digital Security
 
 This booklet is made to help identify what you might have to protect in your digital world. Read in its entirety, you will find each persona has characteristics you may share, or fears you have heard before. These cartoon animals are not made to be the focus; it is the threats they face and solutions they suggest that are important.
